@@ -1,9 +1,3 @@
-<h1 align="center">Hello, World 🌍</h1>
-
-<p align="center">
-  <em>Coding for curiosity.</em>
-</p>
-
 <p align="center">
   I throw my burden here, so they can sleep. 
 </p>
