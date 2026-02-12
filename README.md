@@ -1,7 +1,7 @@
-<h1 align="center">Hello, World 🌍</h1>
+<h1 align="center">Just for fun</h1>
 
 <p align="center">
-  <em>Just for fun.</em>
+  <em></em>
 </p>
 
 <p align="center">
