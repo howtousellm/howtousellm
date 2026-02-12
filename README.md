@@ -1,6 +1,10 @@
 <h1 align="center">Hello, World 🌍</h1>
 
 <p align="center">
+  <em>Just for fun.</em>
+</p>
+
+<p align="center">
   I throw my burden here, so they can sleep. 
 </p>
 
