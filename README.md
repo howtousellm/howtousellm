@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  I focus on building reliable backend systems and experimenting with modern frontend frameworks. 
-  <br />
-  Check out my playground at <a href="https://www.shuqihere.top"><strong>shuqihere.top</strong></a>.
+  I throw my burden here, so they can sleep. 
 </p>
 
 <br />
